@@ -1,2 +1,2 @@
-# raguz-ai-tech
-Raguz ai sites helps you generate photo using "Texts"
+raguz-ai-tech/
+├── index.html  ✅ (must be here)
